@@ -1,3 +1,5 @@
+#gw nitip nama gw ya bang :v
+#Subscribe Xme 4
 from PIL import Image, ImageDraw, ImageFont
 output=[]
 def tulis(text):
